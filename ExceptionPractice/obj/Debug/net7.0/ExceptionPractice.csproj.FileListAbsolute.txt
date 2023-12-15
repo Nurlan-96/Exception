@@ -1,0 +1,14 @@
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\bin\Debug\net7.0\ExceptionPractice.exe
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\bin\Debug\net7.0\ExceptionPractice.deps.json
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\bin\Debug\net7.0\ExceptionPractice.runtimeconfig.json
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\bin\Debug\net7.0\ExceptionPractice.dll
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\bin\Debug\net7.0\ExceptionPractice.pdb
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.AssemblyInfoInputs.cache
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.AssemblyInfo.cs
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.csproj.CoreCompileInputs.cache
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.dll
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\refint\ExceptionPractice.dll
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.pdb
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ExceptionPractice.genruntimeconfig.cache
+C:\Users\Uncle Nurlan\Desktop\ExceptionPractice\ExceptionPractice\obj\Debug\net7.0\ref\ExceptionPractice.dll
